@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="button_hola">Hola</string>
+    <string name="msg_1">Pantalla 1</string>
+    <string name="msg_2">Pantalla 2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_back">Atrás</string>
+</resources>
